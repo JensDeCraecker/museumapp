@@ -1,0 +1,64 @@
+body{
+  background-image:url('https://www.designmuseumgent.be/assets/content/homepage/_1600xAUTO_crop_center-center/achtergrondpixel_170403_102416.png');
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.container{
+  background-color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  padding-right: 15px;
+}
+
+nav a:hover{
+  text-decoration: none;
+  color: #66CDAA;
+}
+
+section img{
+  display: block;
+  margin: auto;
+  max-width: 50%;
+}
+
+section p{
+  text-align: center;
+}
+
+section h2{
+  color: #87CEEB;
+  text-align: center;
+}
+
+section h2 a {
+  color: #87CEEB;
+}
+
+section h2 a:hover {
+  text-decoration: none;
+  color: #66CDAA;
+}
+
+h1 a:hover {
+  text-decoration: none;
+  color: #66CDAA;
+}
+
+p a:hover{
+  text-decoration: none;
+  color: #66CDAA;
+}
+
+title{
+  font-size: 60px;
+}
+
+span{
+  color: #66CDAA;
+}

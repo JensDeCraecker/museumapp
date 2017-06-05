@@ -1,0 +1,23 @@
+<% include header %>
+
+
+    <h1 class="title"><span>N</span>u <span>T</span>e <span>Z</span>ien</h1>
+    <nav>
+        <% for (var i = 0; i < categorieen.length; i++) { %>
+            <a href="/categorieen/<%- i %>"><%- categorieen[i] %></a>
+        <% } %>
+    </nav>
+
+    <% var teller = 1; %>
+    <% nieuws.forEach(function(item){ %>
+        <section>
+          <h2>
+            <a href=/items/<%- item.id %>><%- item.titel %></a>
+          </h2>
+          <img src="/img/<%- item.afbeeldings %>" alt="<%- item.titel %>">
+          <p>Artiest: <%- item.uitvoerder %></p>
+          <p>Datum: <%- item.datum %></p>
+        </section>
+
+    <% teller++;}); %>
+<% include footer %>

@@ -1,0 +1,138 @@
+{
+    "nieuws":
+    [
+      {
+           "titel": "De Tuinman en de Dood",
+           "id": 11,
+           "datum": "1981",
+           "beschrijving":"NVP",
+           "categorieen": ["Geluidsdragers"],
+           "uitvoerder": "Leo Copers ",
+           "periode": "<p>Onbekend/p>",
+           "afbeeldings": "tuinman.jpg",
+           "afbeeldingl": "tuinman.jpg"
+       },
+       {
+            "titel": "Waterlelie",
+            "id": 2,
+            "datum": "1899-1900",
+            "beschrijving":"Monet schilderde veel verschillende variaties op dit thema. Alleen al in de periode 1899-1900 maakte hij 18 verschillende waterlelieschilderijen.",
+            "categorieen": ["Schilderijen"],
+            "uitvoerder": "Claude Monet",
+            "periode": "<p>Giverny</p>",
+            "afbeeldings": "monet.jpg",
+            "afbeeldingl": "monet-1.jpg"
+        },
+        {
+             "titel": "Studie van hoofd en linkerschouder van vrouw",
+             "id": 6,
+             "datum": "1519 - 1520",
+             "beschrijving":"In deze gedetailleerde studie bereidde Rafael de centrale figuur voor van zijn beroemde schilderij De Transfiguratie (Vaticaanse Musea). Het klassieke, in profiel weergegeven vrouwengezicht en de gespierde schouderpartij getuigen van Rafaels zoektocht naar de ideale vrouwelijke schoonheid. Op het schilderij zou de arm uiteindelijk iets meer verkort worden weergegeven en haar gezicht meer uitdrukking krijgen.",
+             "categorieen": ["Tekeningen"],
+             "uitvoerder": "Rafaël",
+             "periode": "<p>Ergens rond het Vaticaan</p>",
+             "afbeeldings": "schouder.jpg",
+             "afbeeldingl": "schouder.jpg"
+         },
+       {
+            "titel": "Venus van Urbino",
+            "id": 3,
+            "datum": "1538",
+            "beschrijving":" Venus van Urbino (Italiaans: Venere di Urbino) is een schilderij van de Italiaanse renaissanceschilder Titiaan, gemaakt in 1538. De titel refereert aan de godin der liefde, maar in feite beeldt hij een gewone aardse vrouw af, erotiserend naakt, in een huiselijke omgeving. Het werk bevindt zich in de collectie van het Uffizi te Florence.",
+            "categorieen": ["Schilderijen"],
+            "uitvoerder": "Titiaan",
+            "periode": "<p>Florence</p>",
+            "afbeeldings": "venere.jpg",
+            "afbeeldingl": "venere.jpg"
+        },
+       {
+            "titel": "Roodsnaveltoekan",
+            "id": 4,
+            "datum": "1748",
+            "beschrijving":"De Dordtenaar Aert Schouman was geen wetenschapper, maar interesseerde zich evengoed voor de natuurgetrouwe weergave van het vogelrijk. Zijn grote observatievermogen blijkt uit de manier waarop deze roodsnaveltoekan zich vastklemt op een tak: met twee tenen in plaats van drie zoals andere soorten. Het luchtig geschilderde landschap in transparante groen- en blauwtinten verwijst naar de streken in Guyana en Noord-Brazilië, waar de vogel inheems is.",
+            "categorieen": ["Tekeningen"],
+            "uitvoerder": "Aert Schouman",
+            "periode": "<p>Onbekend</p>",
+            "afbeeldings": "toekan.jpg",
+            "afbeeldingl": "toekan.jpg"
+        },
+       {
+            "titel": "Een zittende aap aan een ketting",
+            "id": 5,
+            "datum": "1592 - 1602",
+            "beschrijving":"Met virtuoos geplaatste streepjes en arceringen tekende Hendrick Goltzius deze Aziatische resusaap, herkenbaar aan zijn roze gezicht omlijst met haar. Hij besteedde veel aandacht aan de natuurgetrouwe weergave van de vacht, waarbij hij ook het wit van het papier gebruikte om subtiele licht-donker accenten te creëren. Een geketende aap kende ook een bijbetekenis. Deze verbeeldt de zondige mens, die door zijn verlangen naar rijkdom aan de aarde is gekluisterd.",
+            "categorieen": ["Tekeningen"],
+            "uitvoerder": "Hendrick Goltzius",
+            "periode": "<p>Onbekend</p>",
+            "afbeeldings": "aap.jpg",
+            "afbeeldingl": "aap.jpg"
+        },
+       {
+            "titel": "A.D.F.-V.N.1-03",
+            "id": 7,
+            "datum": "2003",
+            "beschrijving":"NVP",
+            "categorieen": ["Foto's"],
+            "uitvoerder": "Dirk Braeckman",
+            "periode": "<p>Antwerpen</p>",
+            "afbeeldings": "foto1.jpg",
+            "afbeeldingl": "foto1.jpg"
+        },
+       {
+            "titel": "Zwillinge",
+            "id": 8,
+            "datum": "1986",
+            "beschrijving":"NVP",
+            "categorieen": ["Foto's"],
+            "uitvoerder": "Gunther Förg ",
+            "periode": "<p>München</p>",
+            "afbeeldings": "zwilling.jpg",
+            "afbeeldingl": "zwilling.jpg"
+        },
+       {
+            "titel": "B.E.-H.O.-96",
+            "id": 9,
+            "datum": "1996 - 1997",
+            "beschrijving":"NVP",
+            "categorieen": ["Foto's"],
+            "uitvoerder": "Dirk Braeckman",
+            "periode": "<p>Antwerpen</p>",
+            "afbeeldings": "foto2.jpg",
+            "afbeeldingl": "foto2.jpg"
+        },
+       {
+            "titel": "Chasing the Blue Train",
+            "id": 10,
+            "datum": "1989 - 1991",
+            "beschrijving":"NVP",
+            "categorieen": ["Geluidsdragers"],
+            "uitvoerder": "David Hammons ",
+            "periode": "<p>Onbekend</p>",
+            "afbeeldings": "train.jpg",
+            "afbeeldingl": "train.jpg"
+        },
+        {
+            "titel": "Het Laatste Avondmaal",
+            "id": 1,
+            "datum": "1495 - 1498",
+            "beschrijving":"Het Laatste Avondmaal (in het Italiaans, Il Cenacolo of L'Ultima Cena) is een muurschildering geschilderd door Leonardo da Vinci in opdracht van hertog Ludovico Sforza in de refter van het Santa Maria delle Grazie, een dominicaner klooster in Milaan.</p><p>Het is een afbeelding van een scène uit het Laatste Avondmaal van Jezus zoals beschreven in de Bijbel en het is gebaseerd op Johannes 13:21-26 waarin Jezus aankondigt dat een van zijn twaalf discipelen hem zal verraden. Het schilderij is wereldwijd bekend en de opstelling is een iconografisch model. Omdat het niet kan worden verplaatst is het nooit in particulier bezit geweest.</p>",
+            "categorieen": ["Schilderijen"],
+            "uitvoerder": "Leonardo da Vinci",
+            "periode": "<p>Milaan</p>",
+            "afbeeldings": "lam.jpg",
+            "afbeeldingl": "lam.jpg"
+        },
+       {
+            "titel": "Pararan (Dictionary)",
+            "id": 12,
+            "datum": "2006",
+            "beschrijving":"NVP",
+            "categorieen": ["Geluidsdragers"],
+            "uitvoerder": "Mekhitar Garabedian ",
+            "periode": "<p>Pakistan</p>",
+            "afbeeldings": "para.jpg",
+            "afbeeldingl": "para.jpg"
+        }
+
+    ]
+}
