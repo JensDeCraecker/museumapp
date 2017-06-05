@@ -1,5 +1,6 @@
 var express = require("express");
 var path = require("path");
+var bodyParser = require("body-parser");
 var app = express();
 
 app.set('nieuwsFile', require('./config/nieuws.json'));
@@ -11,9 +12,24 @@ app.set("view engine", "ejs");
 app.set('port', (process.env.PORT || 5000));
 app.use(express.static('public'))
 
+
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
+
+var input = [];
+app.locals.input = input;
+
+app.post('/', function(req, res){
+  input.push({
+
+  });  
+});
+
 app.use(require("./routes/root_router"));
 app.use(require("./routes/nieuws_router"));
 app.use(require("./routes/categorieen_router"));
+
+
 
 app.listen(app.get('port'), function() {
   console.log('Node luistert op poort', app.get('port'));

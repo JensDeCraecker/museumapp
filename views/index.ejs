@@ -1,12 +1,15 @@
 <% include header %>
 
-
     <h1 class="title"><span>N</span>u <span>T</span>e <span>Z</span>ien</h1>
+      <form method="post" autocomplete="off" class="navbar-search pull-left">
+        <input name="search" type="text" id="search" data-provide="typeahead" placeholder="Search..." />
+      </form>
     <nav>
         <% for (var i = 0; i < categorieen.length; i++) { %>
             <a href="/categorieen/<%- i %>"><%- categorieen[i] %></a>
         <% } %>
     </nav>
+
 
     <% var teller = 1; %>
     <% nieuws.forEach(function(item){ %>
@@ -18,6 +21,8 @@
           <p>Artiest: <%- item.uitvoerder %></p>
           <p>Datum: <%- item.datum %></p>
         </section>
+
+
 
     <% teller++;}); %>
 <% include footer %>
